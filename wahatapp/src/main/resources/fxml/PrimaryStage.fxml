@@ -27,7 +27,7 @@
                   <Insets left="20.0" />
                </padding>
             </Button>
-            <Button fx:id="salesButton" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handleSalesButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: transparent;" text="Add Student " textFill="WHITE">
+            <Button fx:id="salesButton" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handleAddStudentButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: transparent;" text="Add Student " textFill="WHITE">
                <font>
                   <Font size="14.0" />
                </font>
@@ -35,7 +35,7 @@
                   <Insets left="20.0" />
                </padding>
             </Button>
-            <Button fx:id="patientsButton" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handlePatientsButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: transparent;" text="Students List " textFill="WHITE">
+            <Button fx:id="patientsButton" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handleStudentListButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: transparent;" text="Students List " textFill="WHITE">
                <font>
                   <Font size="14.0" />
                </font>
@@ -43,7 +43,7 @@
                   <Insets left="20.0" />
                </padding>
             </Button>
-            <Button fx:id="inventoryButton" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handleInventoryButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: transparent;" text="Recharger " textFill="WHITE">
+            <Button fx:id="inventoryButton" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handleRechargeButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: transparent;" text="Recharger " textFill="WHITE">
                <font>
                   <Font size="14.0" />
                </font>
