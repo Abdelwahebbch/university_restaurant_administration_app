@@ -22,15 +22,15 @@ public class DashboardController {
     private TableColumn<?, ?> lowQuantityColumn;
 
     @FXML
-    private TableView<?> lowStockTable;
+    private TableView<?> recentesSalesTable;
 
     @FXML
     private BarChart<?, ?> salesBarChart;
 
     @FXML
-    private Label totalPrescriptionsLabel;
+    private Label totalSalesLabel;
 
     @FXML
-    private Label totalSalesLabel;
+    private Label totalStudentsLabel;
 
 }
