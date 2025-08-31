@@ -52,8 +52,8 @@ WahatApp-Administration permet aux Administration de gérer facilement les carte
 1. **Cloner le repo :**
 
 ```bash
-git clone https://github.com/Abdelwahebbch/Pharmacy-App.git
-cd pharmacy-app
+git clone https://github.com/Abdelwahebbch/university_restaurant_administration_app.git
+cd university_restaurant_administration_app
 ```
 
 2. **Configurer la base Oracle :**
