@@ -1,10 +1,10 @@
 # WahatApp-Administration
 
-Un logiciel moderne développée en java pour numériser le trafic d'un restaurant universitaire pour les étudiants tunisiens.
+Logiciel moderne développé en Java pour digitaliser et faciliter la gestion des restaurants universitaires pour les étudiants tunisiens.
 
 ## 📱 Aperçu
 
-WahatApp-Administration permet aux Administration de gérer facilement les carte restaurant universitaire . Le logiciel offre la consultation du profile des etudiants, la recharge de cartes ,identifier des nouveaux etudiants.
+WhatsApp-Administration permet aux administrateurs de gérer facilement les cartes de restaurant universitaires. Le logiciel permet de consulter les profils des étudiants, de recharger leurs cartes et d'identifier les nouveaux étudiants.
 
 ## 📋 Fonctionnalités principales
 
