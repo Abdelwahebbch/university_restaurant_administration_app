@@ -14,7 +14,6 @@ WhatsApp-Administration permet aux administrateurs de gérer facilement les cart
 ## 🧱 Architecture
 
 - **JavaFX** — Interface utilisateur
-- **Oracle Database (ojdbc)** — Stockage des patients et ordonnances
 - **Maven** — Gestion de projet et des dépendances
 - **MVC** — Architecture logique : `Controller`, `DAO`, `Model`, `Util`
 
